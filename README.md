@@ -1,1 +1,1 @@
-# Movies Retrival Augmented Generation Agent
+# Movie Retrival Augmented Generation Agent
