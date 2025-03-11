@@ -1,0 +1,15 @@
+langchain
+
+langchain_community
+
+pytube
+
+tkinter
+
+openai
+
+python-dotenv
+
+re
+
+threading
