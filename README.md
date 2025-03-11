@@ -1,1 +1,1 @@
-# Movies-RAG-Agent
+# Movies Retrival Augmented Generation Agent
