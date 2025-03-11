@@ -11,7 +11,7 @@ This RAG model has an web search capabilities to provie the user the details of 
   
 # How to Use The Model 
 - Firstly, install all the required dependencies of the model
-- Now create an .env file and save your OpenAi api key in the dotenv file
+- Now create an .env file and save your OpenAI api key in the dotenv file
 - Run the Notebook
 - In the chatbox,Enter the movie name and the results will appear
 
